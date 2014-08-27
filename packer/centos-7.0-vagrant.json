@@ -43,7 +43,6 @@
 
   "post-processors": [{
     "output": "build/centos-7.0-x86_64.box",
-    "type": "vagrant",
-    "only": ["virtualbox-iso"]
+    "type": "vagrant"
   }]
 }
